@@ -4,3 +4,4 @@ accum = 0
 for w in my_list:
     accum = accum + w
 print (accum) 
+#teste 1
