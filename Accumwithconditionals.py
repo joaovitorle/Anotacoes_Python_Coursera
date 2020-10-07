@@ -36,5 +36,3 @@ for n in sentence.split():
         num_a_or_e+=1
 print(num_a_or_e)
 
-
-
